@@ -1,0 +1,29 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2025.2.1 (win64) Build 6403652 Thu Mar 19 19:48:24 GMT 2026
+| Date         : Sun Oct 25 22:05:06 2026
+| Host         : Fariaz running 64-bit major release  (build 9200)
+| Command      : report_utilization -hierarchical -file D:/Downloads/HybMem-SNN/synth_out/impl_utilization_hier.rpt
+| Design       : snn_accel
+| Device       : xc7z020clg400-1
+| Speed File   : -1
+| Design State : Routed
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Utilization Design Information
+
+Table of Contents
+-----------------
+1. Utilization by Hierarchy
+
+1. Utilization by Hierarchy
+---------------------------
+
++-----------+--------+------------+------------+---------+------+------+--------+--------+------------+
+|  Instance | Module | Total LUTs | Logic LUTs | LUTRAMs | SRLs |  FFs | RAMB36 | RAMB18 | DSP Blocks |
++-----------+--------+------------+------------+---------+------+------+--------+--------+------------+
+| snn_accel |  (top) |       7948 |       7948 |       0 |    0 | 2009 |      5 |      1 |          0 |
++-----------+--------+------------+------------+---------+------+------+--------+--------+------------+
+* Note: The sum of lower-level cells may be larger than their parent cells total, due to cross-hierarchy LUT combining
+
+

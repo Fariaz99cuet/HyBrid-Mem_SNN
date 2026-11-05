@@ -1,0 +1,6 @@
+quantity,event_driven,dense
+input_spikes,406.8231,3136
+hidden_spikes,311.66,1024
+weight_rows,718.4831,4160
+weight_adds,31023.2384,217088
+cycles,11964.8096,58481

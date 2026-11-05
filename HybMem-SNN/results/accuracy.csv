@@ -1,0 +1,3 @@
+model,accuracy_percent
+float,96.92
+int8_hardware,96.96000000000001
