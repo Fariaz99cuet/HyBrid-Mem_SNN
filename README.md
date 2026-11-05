@@ -105,10 +105,4 @@ Routed on the xc7z020clg400-1 with a 10 ns clock constraint (out of context, no 
 - Results come from a single training run (seed 0). The precision sweep quantises the trained network after training and does not retrain.
 - The dense reference used for the read-saving figure is a hypothetical variant of the same FSM, not a separate design.
 
-## Report
 
-A full write-up with all tables and figures accompanies the project.
-
-## License
-
-Add a license of your choice, for example MIT.
